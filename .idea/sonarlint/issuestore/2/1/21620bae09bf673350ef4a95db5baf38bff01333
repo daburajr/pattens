@@ -1,0 +1,11 @@
+
+m
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¶◊ÕD8·∆ô„….
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¶◊ÕD8·∆ô„….
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(µÕ√Ï8õ‰ó„….
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µÕ√Ï8õ‰ó„….
+B
+java:S3457"%String contains no format specifiers.(µÕ√Ï8©ãØ„….
+A
+java:S3457"%String contains no format specifiers.(¶◊ÕD8π∑∞„….
